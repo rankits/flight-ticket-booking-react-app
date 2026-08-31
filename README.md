@@ -1,6 +1,6 @@
-# Airplane Ticket Booking and Management System
+# My ticket  Ticket Booking and Management System
 
-Welcome to the Airplane Ticket Booking and Management System project! This web application aims to revolutionize the traditional methods of booking and managing flight tickets by providing a user-friendly interface, secure authentication, and QR code verification for enhanced security. Below you'll find detailed information on how to set up, use, and contribute to this project.
+Welcome to the MY Ticket Booking and Management System project! This web application aims to revolutionize the traditional methods of booking and managing flight tickets by providing a user-friendly interface, secure authentication, and QR code verification for enhanced security. Below you'll find detailed information on how to set up, use, and contribute to this project.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the Airplane Ticket Booking and Management System project! This web a
 
 ## Introduction
 
-In the fast-paced digital age, the Airplane Ticket Booking and Management System provides a modern solution to the limitations of traditional ticketing methods. By leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js), this application offers a streamlined and secure platform for users to search, book, and manage flight tickets with ease.
+In the fast-paced digital age, the My Ticket Booking and Management System provides a modern solution to the limitations of traditional ticketing methods. By leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js), this application offers a streamlined and secure platform for users to search, book, and manage flight tickets with ease.
 
 ## Features
 
@@ -24,24 +24,14 @@ In the fast-paced digital age, the Airplane Ticket Booking and Management System
 - **Admin Panel**: Manage flight listings, user information, and system configurations efficiently.
 - **Responsive Design**: Enjoy a seamless experience across different devices, including desktops, laptops, tablets, and smartphones.
 
-## Demo
-
-Check out the live demo of the Airplane Ticket Booking and Management System [here](https://abvssystem.web.app/).
-
 ## Installation
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/PiyushPb/Airplane-Ticket-Booking.git
-```
-
 2. Navigate to the project directory:
 
 ```bash
-cd airplane-ticket-booking
+cd My-ticket-booking
 ```
 
 3. There are 2 directories Frontend and backend
@@ -101,5 +91,3 @@ Please ensure your contributions adhere to the [code of conduct](CODE_OF_CONDUCT
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to reach out if you have any questions or need further assistance [Piyush Linkedin](https://www.linkedin.com/in/piyushpardeshi/). Happy coding!
