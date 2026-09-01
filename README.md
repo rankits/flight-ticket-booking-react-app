@@ -28,6 +28,12 @@ In the fast-paced digital age, the My Ticket Booking and Management System provi
 
 To run this project locally, follow these steps:
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/rankits/flight-ticket-booking-react-app.git
+```
+
 2. Navigate to the project directory:
 
 ```bash
